@@ -4,6 +4,11 @@
 
 I am currently a sopohomre at the University of Colorado Boulder. I'm an aspiring software engineer and full stack developer. My favorite thing about programming is the design process and collaborating with friends on projects. My hobbies include backpacking, running, gardening, and astronomy. 
 
+<p align="left">
+      <a href="https://github.com/ohlsengrace?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ohlsengrace?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   </p>
+
 ---
 
 ### 🛠 Languages and Tools
