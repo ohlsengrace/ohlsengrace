@@ -1,10 +1,10 @@
 # 🏔Grace Ohlsen
 
-**`Code Snippet`**
+**`CS & Economics Student`**
 
 I am currently a sopohomre at the University of Colorado Boulder. I'm an aspiring software engineer and full stack developer. My favorite thing about programming is the design process and collaborating with friends on projects. My hobbies include backpacking, running, gardening, and astronomy. 
 
-### 🧰 Languages and Tools
+### 🛠 Languages and Tools
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 <img align="left" alt="C++" width="30px" style=padding-right:10px; src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
