@@ -10,6 +10,9 @@ I am currently a sopohomre at the University of Colorado Boulder. I'm an aspirin
       <a href="https://www.linkedin.com/in/grace-ohlsen-70592b21a/">
          <img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ohlsengrace?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin_logo&label=Follow&logoColor=white"/></a>
    </p>
+      <a>
+            <img src="https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white"/>
+      </a>
 
 ---
 
