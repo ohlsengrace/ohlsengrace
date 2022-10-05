@@ -11,7 +11,7 @@ I am currently a sopohomre at the University of Colorado Boulder. I'm an aspirin
          <img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ohlsengrace?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin_logo&label=Follow&logoColor=white"/></a>
    </p>
       <a>
-            <img src="https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white"/>
+            <img src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
       </a>
 
 ---
