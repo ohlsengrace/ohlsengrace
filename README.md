@@ -17,7 +17,7 @@ I am currently a sopohomre at the University of Colorado Boulder. I'm an aspirin
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-
+#
 
 ### 🍎 Current Coursework
 * CSCI 2400: Computer Systems (C/Assembly)
@@ -25,6 +25,8 @@ I am currently a sopohomre at the University of Colorado Boulder. I'm an aspirin
 * ASTR 2000: Ancient Astronomies of the World
 * ECON 2020: Principles of Macroeconomics
 * PHIL 1440: Critical Thinking
+
+---
 
 ### 🌟 My Inspiration Feed
 * Forrest Knight
