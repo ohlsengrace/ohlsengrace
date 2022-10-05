@@ -6,7 +6,7 @@ I am currently a sopohomre at the University of Colorado Boulder. I'm an aspirin
 
 <p align="left">
       <a href="https://github.com/ohlsengrace?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ohlsengrace?color=%236ad3&labelColor=236ad3&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ohlsengrace?color=%236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/grace-ohlsen-70592b21a/">
          <img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ohlsengrace?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin_logo&label=Follow&logoColor=white"/></a>
  </p>
