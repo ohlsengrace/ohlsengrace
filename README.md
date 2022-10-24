@@ -38,6 +38,8 @@ I am currently a sopohomre at the University of Colorado Boulder. I'm an aspirin
 * ECON 2020: Principles of Macroeconomics
 * PHIL 1440: Critical Thinking
 
+<a href="https://github.com/sko-grace">School GitHub Profile</a>
+
 #
 
 ### 🌟 My Inspiration Feed
