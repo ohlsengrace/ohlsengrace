@@ -2,7 +2,7 @@
 
 **`CS & Economics Student`**
 
-I am currently a sopohomre at the University of Colorado Boulder. I'm an aspiring software engineer and full stack developer. My favorite thing about programming is the design process and collaborating with friends on projects. My hobbies include backpacking, running, gardening, and astronomy. 
+I am currently a sopohomre at the University of Colorado Boulder. I'm an aspiring software engineer and full stack developer. My favorite thing about programming is the design process and collaborating with friends on projects. My hobbies include backpacking, running, gardening, and cooking. 
 
 <p align="left">
       <a href="https://github.com/ohlsengrace?tab=followers">
@@ -32,11 +32,10 @@ I am currently a sopohomre at the University of Colorado Boulder. I'm an aspirin
 
 
 ### 🍎 Current Coursework
-* CSCI 2400: Computer Systems (C/Assembly)
-* CSCI 2824: Discrete Strcutures (Python)
-* ASTR 2000: Ancient Astronomies of the World
-* ECON 2020: Principles of Macroeconomics
-* PHIL 1440: Critical Thinking
+* CSCI 3104: Algorithms
+* CSCI 3403: Intro to Cybersecurity
+* ASTR 3202: Artificial Intelligence
+* RLST 2800: Women and Religion
 
 <a href="https://github.com/sko-grace">School GitHub Profile</a>
 
@@ -44,12 +43,10 @@ I am currently a sopohomre at the University of Colorado Boulder. I'm an aspirin
 
 ### 🌟 My Inspiration Feed
 * Forrest Knight
-* Rachel Metz
+* Living to DIY with Rachel Metz
 * NPR Music
-* Matt D'Avella
-* Emma Chamberlain
-* Ali Abdaal
-* Mayuko Inoue
+* anything goes with emma chamberlain
+* The Players' Pod with Kelley O'Hara
 
 
 
