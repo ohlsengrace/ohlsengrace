@@ -32,10 +32,10 @@ I am currently a junior at the University of Colorado Boulder. I'm an aspiring s
 
 
 ### 🍎 Current Coursework
-* CSCI 3104: Algorithms
-* CSCI 3403: Intro to Cybersecurity
-* ASTR 3202: Artificial Intelligence
-* RLST 2800: Women and Religion
+* CSCI 3753: Operating Systems
+* CSCI 4448: Object-Oriented Analysis & Design
+* CSCI 3287: Design & Analysis of DB Systems
+* ECON 4797: Antitrust & Regulation
 
 <a href="https://github.com/sko-grace">School GitHub Profile</a>
 
@@ -44,7 +44,7 @@ I am currently a junior at the University of Colorado Boulder. I'm an aspiring s
 ### 🌟 My Inspiration Feed
 * Forrest Knight
 * Living to DIY with Rachel Metz
-* NPR Music
+* NPR Tiny Desk Concerts
 * anything goes with emma chamberlain
 * The Players' Pod with Kelley O'Hara
 
