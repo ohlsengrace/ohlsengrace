@@ -2,7 +2,7 @@
 
 **`CS & Economics Student`**
 
-I am currently a junior at the University of Colorado Boulder. I'm an aspiring software engineer and full stack developer. My favorite thing about programming is the design process and collaborating with friends on projects. My hobbies include backpacking, fitness, and cooking. 
+I am currently a senior at the University of Colorado Boulder. I'm an aspiring software engineer and full stack developer. My favorite thing about programming is the design process and collaborating with friends on projects. My hobbies include backpacking, fitness, and cooking. 
 
 <p align="left">
       <a href="https://github.com/ohlsengrace?tab=followers">
